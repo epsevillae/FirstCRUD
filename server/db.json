@@ -1,0 +1,22 @@
+{
+  "empleados": [
+    {
+      "id": 1,
+      "nombre": "Antonio Estevez",
+      "correo": "tony@json.com",
+      "telefono": "001-123-45678"
+    },
+    {
+      "id": 2,
+      "nombre": "Blanca Salazar",
+      "correo": "bsalazar@json.com",
+      "telefono": "001-123-4568"
+    },
+    {
+      "nombre": "Erick Sevilla",
+      "correo": "epsevillae@utn.edu.ec",
+      "telefono": "0980801363",
+      "id": 3
+    }
+  ]
+}
